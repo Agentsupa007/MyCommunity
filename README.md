@@ -1,6 +1,6 @@
-My Community
+My Community<br>
 My Community is a web and mobile application designed for residents of a housing society, providing a platform for managing various community needs. It enables residents to report and track issues, submit service requests, and stay informed about community announcements. Built with Java Spring Boot, MySQL, HTML, and CSS, this application aims to improve communication and streamline management within the community.
-
+<br>
 Features
 User Roles: Residents and admins have separate roles, with different access and functionalities.
 Issue Reporting and Tracking: Residents can submit complaints and track their status.
